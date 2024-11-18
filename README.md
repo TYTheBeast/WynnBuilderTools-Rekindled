@@ -115,6 +115,7 @@ db_retry_count = 10                                         # Number of retries 
 # min_sd_pct = 0
 # min_hpr = 0
 # min_exp_bonus = 0
+# min_loot_bonus = 0
 
 [threshold_third]
 # min_earth_defense = 0
